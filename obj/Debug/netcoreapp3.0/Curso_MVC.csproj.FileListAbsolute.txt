@@ -2,7 +2,6 @@ D:\Documentos\Praticando\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.0\appsettings
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.0\appsettings.json
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\bin\Debug\netcoreapp3.0\Curso_MVC.exe
-D:\Documentos\Praticando\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.0\Curso_MVC.csprojAssemblyReference.cache
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.0\Curso_MVC.RazorAssemblyInfo.cache
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.0\Curso_MVC.RazorAssemblyInfo.cs
 D:\Documentos\Praticando\Curso_MVC\Curso_MVC\obj\Debug\netcoreapp3.0\Curso_MVC.AssemblyInfoInputs.cache
